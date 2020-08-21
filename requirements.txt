@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib.pyplot
+ast
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
